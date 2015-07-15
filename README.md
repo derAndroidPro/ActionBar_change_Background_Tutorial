@@ -1,6 +1,8 @@
 # ActionBar: Hintergrundfarbe ändern - Tutorial
 So ändert ihr die Hintergrundfarbe der ActionBar mit dem ActionBar Style Generator!
 
+ActionBar Style Generator: http://jgilfelt.github.io/android-actionbarstylegenerator
+
 - Tutorial auf YouTube: https://youtu.be/YUTI1HA7xmQ
 - Projekt für Eclipse (Kann problemlos in Android Studio importiert werden)
 
